@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?cnws7h');
+  src:  url('../fonts/icomoon.eot?cnws7h#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?cnws7h') format('truetype'),
+    url('../fonts/icomoon.woff?cnws7h') format('woff'),
+    url('../fonts/icomoon.svg?cnws7h#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: 'icomoon2';
+  src:  url('../fonts/icomoon2.eot?cnws7h');
+  src:  url('../fonts/icomoon2.eot?cnws7h#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon2.ttf?cnws7h') format('truetype'),
+    url('../fonts/icomoon2.woff?cnws7h') format('woff'),
+    url('../fonts/icomoon2.svg?cnws7h#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "PEPSI";
+  src: url("../fonts/PEPSIpl.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/PEPSIpl.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/PEPSIpl.otf") format("opentype"), /* Open Type Font */
+    url("../fonts/PEPSIpl.svg") format("svg"), /* Legacy iOS */
+    url("../fonts/PEPSIpl.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/PEPSIpl.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/PEPSIpl.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
